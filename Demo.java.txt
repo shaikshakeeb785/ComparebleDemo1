@@ -1,0 +1,9 @@
+public car{
+
+
+public static flycar()
+{
+System.out.println("Herllo git");
+}
+
+}
